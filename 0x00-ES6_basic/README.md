@@ -1,1 +1,1 @@
-# ES6-Basics Directory
+# 0x00. ES6 Basics
